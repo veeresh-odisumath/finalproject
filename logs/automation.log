@@ -1,0 +1,20 @@
+23:48:37.483 [main] INFO  - Goto my account-->Click on Login.. 
+23:48:37.497 [main] INFO  - user is navigated to upcmoing bike section
+23:48:44.252 [main] INFO  - Honda is selected as Manufacturer... 
+23:48:45.681 [main] INFO  - List of honda bikes under 4 lakhs displayed.. 
+23:56:17.245 [main] INFO  - Goto my account-->Click on Login.. 
+23:56:17.261 [main] INFO  - user is navigated to upcmoing bike section
+23:56:24.071 [main] INFO  - Honda is selected as Manufacturer... 
+23:56:26.762 [main] INFO  - List of honda bikes under 4 lakhs displayed.. 
+00:03:01.921 [main] INFO  - Goto my account-->Click on Login.. 
+00:46:40.871 [main] INFO  - user is navigated to zigwheels.. 
+00:46:40.904 [main] INFO  - user is navigated to upcmoing bike section
+00:46:49.293 [main] INFO  - Honda is selected as Manufacturer... 
+00:46:51.242 [main] INFO  - List of honda bikes under 4 lakhs displayed.. 
+00:47:07.964 [main] INFO  - user is navigated to zigwheels.. 
+00:47:08.186 [main] INFO  - user is navigated to used cars section
+00:47:14.631 [main] INFO  - user selects chennai city for used cars location
+00:47:14.635 [main] INFO  - user recives list of popular car models inchennai 
+11:31:11.495 [main] INFO  - user is navigated to zigwheels.. 
+11:31:11.504 [main] INFO  - user is navigated to upcmoing bike section
+11:31:53.586 [main] INFO  - user is navigated to zigwheels.. 
